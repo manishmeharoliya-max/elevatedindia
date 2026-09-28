@@ -46,14 +46,7 @@ export default function Hero() {
 
   return (
 
-    <section
-      className="
-      relative
-      h-screen
-      overflow-hidden
-      bg-black
-      "
-    >
+    <section className="relative h-screen overflow-hidden bg-black">
 
 
       {/* Background Media */}
